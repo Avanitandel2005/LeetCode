@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Avanitandel2005/LeetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Avanitandel2005/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Avanitandel2005/LeetCode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Avanitandel2005/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Avanitandel2005/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Avanitandel2005/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Avanitandel2005/LeetCode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Avanitandel2005/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Avanitandel2005/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Avanitandel2005/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Avanitandel2005/LeetCode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Avanitandel2005/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Avanitandel2005/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Avanitandel2005/LeetCode/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Avanitandel2005/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Avanitandel2005/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Avanitandel2005/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Avanitandel2005/LeetCode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Avanitandel2005/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Counting
 |  |
 | ------- |
