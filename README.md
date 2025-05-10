@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Avanitandel2005/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Avanitandel2005/LeetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Avanitandel2005/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Avanitandel2005/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Avanitandel2005/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Avanitandel2005/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Avanitandel2005/LeetCode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Avanitandel2005/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Avanitandel2005/LeetCode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Avanitandel2005/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Avanitandel2005/LeetCode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Avanitandel2005/LeetCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Avanitandel2005/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Avanitandel2005/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Avanitandel2005/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Avanitandel2005/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Avanitandel2005/LeetCode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -174,4 +179,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Avanitandel2005/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Avanitandel2005/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
