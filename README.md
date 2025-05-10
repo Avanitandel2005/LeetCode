@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Avanitandel2005/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Avanitandel2005/LeetCode/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Avanitandel2005/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1031-add-to-array-form-of-integer](https://github.com/Avanitandel2005/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Avanitandel2005/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Avanitandel2005/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Avanitandel2005/LeetCode/tree/master/1013-fibonacci-number) |
+| [1031-add-to-array-form-of-integer](https://github.com/Avanitandel2005/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 ## Recursion
 |  |
 | ------- |
