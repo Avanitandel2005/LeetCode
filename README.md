@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Avanitandel2005/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Avanitandel2005/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Avanitandel2005/LeetCode/tree/master/0053-maximum-subarray) |
+| [0079-word-search](https://github.com/Avanitandel2005/LeetCode/tree/master/0079-word-search) |
 | [0209-minimum-size-subarray-sum](https://github.com/Avanitandel2005/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
 |  |
@@ -59,4 +60,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Avanitandel2005/LeetCode/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Avanitandel2005/LeetCode/tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Avanitandel2005/LeetCode/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Avanitandel2005/LeetCode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Avanitandel2005/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
