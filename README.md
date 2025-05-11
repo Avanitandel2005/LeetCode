@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Avanitandel2005/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Avanitandel2005/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Avanitandel2005/LeetCode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Avanitandel2005/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Avanitandel2005/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Avanitandel2005/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Avanitandel2005/LeetCode/tree/master/1013-fibonacci-number) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Avanitandel2005/LeetCode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Avanitandel2005/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Avanitandel2005/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Avanitandel2005/LeetCode/tree/master/1013-fibonacci-number) |
 ## Binary Search
