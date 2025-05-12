@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Avanitandel2005/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Avanitandel2005/LeetCode/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Avanitandel2005/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0747-min-cost-climbing-stairs](https://github.com/Avanitandel2005/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1031-add-to-array-form-of-integer](https://github.com/Avanitandel2005/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 ## Hash Table
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Avanitandel2005/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Avanitandel2005/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Avanitandel2005/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0747-min-cost-climbing-stairs](https://github.com/Avanitandel2005/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1008-binary-tree-cameras](https://github.com/Avanitandel2005/LeetCode/tree/master/1008-binary-tree-cameras) |
 | [1013-fibonacci-number](https://github.com/Avanitandel2005/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Avanitandel2005/LeetCode/tree/master/1236-n-th-tribonacci-number) |
