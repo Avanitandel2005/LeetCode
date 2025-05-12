@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Avanitandel2005/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Avanitandel2005/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Avanitandel2005/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Avanitandel2005/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Avanitandel2005/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Avanitandel2005/LeetCode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Avanitandel2005/LeetCode/tree/master/0507-perfect-number) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Avanitandel2005/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Avanitandel2005/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Avanitandel2005/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1008-binary-tree-cameras](https://github.com/Avanitandel2005/LeetCode/tree/master/1008-binary-tree-cameras) |
 | [1013-fibonacci-number](https://github.com/Avanitandel2005/LeetCode/tree/master/1013-fibonacci-number) |
@@ -231,5 +233,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Avanitandel2005/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Avanitandel2005/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
