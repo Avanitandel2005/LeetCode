@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Avanitandel2005/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Avanitandel2005/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Avanitandel2005/LeetCode/tree/master/0414-third-maximum-number) |
+| [0566-reshape-the-matrix](https://github.com/Avanitandel2005/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Avanitandel2005/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/Avanitandel2005/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0861-flipping-an-image](https://github.com/Avanitandel2005/LeetCode/tree/master/0861-flipping-an-image) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Avanitandel2005/LeetCode/tree/master/0079-word-search) |
+| [0566-reshape-the-matrix](https://github.com/Avanitandel2005/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Avanitandel2005/LeetCode/tree/master/0861-flipping-an-image) |
 | [1677-matrix-diagonal-sum](https://github.com/Avanitandel2005/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Avanitandel2005/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -268,5 +270,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/Avanitandel2005/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Avanitandel2005/LeetCode/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
