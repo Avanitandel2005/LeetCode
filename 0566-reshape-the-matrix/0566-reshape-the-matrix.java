@@ -2,7 +2,7 @@ class Solution {
     public int[][] matrixReshape(int[][] mat, int r, int c) {
         int row = mat.length;
         int col = mat[0].length;
-        if(row*col != r*c) return mat;
+        if((row*col) != (r*c)) return mat;
 
         int[][] ans = new int[r][c];
         int x=0, y=0;
