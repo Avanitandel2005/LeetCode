@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Avanitandel2005/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1677-matrix-diagonal-sum](https://github.com/Avanitandel2005/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Avanitandel2005/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [3321-type-of-triangle](https://github.com/Avanitandel2005/LeetCode/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/Avanitandel2005/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/Avanitandel2005/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Avanitandel2005/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [3321-type-of-triangle](https://github.com/Avanitandel2005/LeetCode/tree/master/3321-type-of-triangle) |
 ## Recursion
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Avanitandel2005/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Avanitandel2005/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Avanitandel2005/LeetCode/tree/master/0414-third-maximum-number) |
+| [3321-type-of-triangle](https://github.com/Avanitandel2005/LeetCode/tree/master/3321-type-of-triangle) |
 ## Counting
 |  |
 | ------- |
