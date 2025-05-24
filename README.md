@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Avanitandel2005/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Avanitandel2005/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Avanitandel2005/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Avanitandel2005/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Avanitandel2005/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Avanitandel2005/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Avanitandel2005/LeetCode/tree/master/0342-power-of-four) |
@@ -270,6 +271,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Avanitandel2005/LeetCode/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/Avanitandel2005/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Avanitandel2005/LeetCode/tree/master/0861-flipping-an-image) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Avanitandel2005/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
