@@ -6,7 +6,7 @@ class Solution {
         int right = num/2;
 
         while(left<=right){
-            int mid = (left+right)/2;
+            int mid = left+(right-left)/2;
 
             long guess =(long) mid*mid;
 
