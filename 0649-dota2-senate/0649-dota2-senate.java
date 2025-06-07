@@ -6,10 +6,8 @@ class Solution {
         int n= senate.length();
 
         for(int i=0;i<senate.length();i++){
-            char ch = senate.charAt(i);
-
-            if(ch=='R') R.add(i);
-            if(ch=='D') D.add(i);
+            if(senate.charAt(i)=='D') D.add(i);
+            else R.add(i);
         }
 
         while (!R.isEmpty() && !D.isEmpty()){
