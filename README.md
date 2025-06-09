@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Avanitandel2005/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1677-matrix-diagonal-sum](https://github.com/Avanitandel2005/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Avanitandel2005/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Avanitandel2005/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3321-type-of-triangle](https://github.com/Avanitandel2005/LeetCode/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/Avanitandel2005/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/Avanitandel2005/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Avanitandel2005/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Avanitandel2005/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3321-type-of-triangle](https://github.com/Avanitandel2005/LeetCode/tree/master/3321-type-of-triangle) |
 ## Recursion
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Avanitandel2005/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Avanitandel2005/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Avanitandel2005/LeetCode/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Avanitandel2005/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Avanitandel2005/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Avanitandel2005/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0649-dota2-senate](https://github.com/Avanitandel2005/LeetCode/tree/master/0649-dota2-senate) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Avanitandel2005/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -296,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Avanitandel2005/LeetCode/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/Avanitandel2005/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Avanitandel2005/LeetCode/tree/master/0861-flipping-an-image) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Avanitandel2005/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Number Theory
 |  |
 | ------- |
