@@ -1,17 +1,11 @@
 //Josephs' problem
 class Solution {
     public int findTheWinner(int n, int k) {
-        Queue<Integer> queue = new LinkedList<>();
-        for(int i=1;i<=n;i++){
-            queue.add(i);
+        int ans=0;
+        for(int i=2;i<=n;i++){
+            ans=(ans+k)%i;
         }
-        while(queue.size()>1){
-            for(int i=1;i<k;i++){
-                int curr = queue.remove();
-                queue.add(curr);
-            }
-            queue.remove();
-        }
-        return queue.peek();
+        return ans+1;
+
     }
 }
