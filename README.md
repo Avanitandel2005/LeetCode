@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Avanitandel2005/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1677-matrix-diagonal-sum](https://github.com/Avanitandel2005/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Avanitandel2005/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Avanitandel2005/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Avanitandel2005/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3321-type-of-triangle](https://github.com/Avanitandel2005/LeetCode/tree/master/3321-type-of-triangle) |
 ## Hash Table
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Avanitandel2005/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Avanitandel2005/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Avanitandel2005/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Avanitandel2005/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Tree
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Avanitandel2005/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Avanitandel2005/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0649-dota2-senate](https://github.com/Avanitandel2005/LeetCode/tree/master/0649-dota2-senate) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Avanitandel2005/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Avanitandel2005/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Binary Search Tree
 |  |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Avanitandel2005/LeetCode/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/Avanitandel2005/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Avanitandel2005/LeetCode/tree/master/0861-flipping-an-image) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Avanitandel2005/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Avanitandel2005/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Number Theory
 |  |
