@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Avanitandel2005/LeetCode/tree/master/0890-lemonade-change) |
 | [1031-add-to-array-form-of-integer](https://github.com/Avanitandel2005/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Avanitandel2005/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1635-number-of-good-pairs](https://github.com/Avanitandel2005/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/Avanitandel2005/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Avanitandel2005/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Avanitandel2005/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Avanitandel2005/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Avanitandel2005/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Avanitandel2005/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1635-number-of-good-pairs](https://github.com/Avanitandel2005/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/Avanitandel2005/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/Avanitandel2005/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Avanitandel2005/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1635-number-of-good-pairs](https://github.com/Avanitandel2005/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Avanitandel2005/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3321-type-of-triangle](https://github.com/Avanitandel2005/LeetCode/tree/master/3321-type-of-triangle) |
 ## Recursion
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Avanitandel2005/LeetCode/tree/master/0169-majority-element) |
+| [1635-number-of-good-pairs](https://github.com/Avanitandel2005/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Design
 |  |
 | ------- |
