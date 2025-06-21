@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/Avanitandel2005/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Avanitandel2005/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2083-three-divisors](https://github.com/Avanitandel2005/LeetCode/tree/master/2083-three-divisors) |
+| [2491-smallest-even-multiple](https://github.com/Avanitandel2005/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [3321-type-of-triangle](https://github.com/Avanitandel2005/LeetCode/tree/master/3321-type-of-triangle) |
 ## Recursion
 |  |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Avanitandel2005/LeetCode/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/Avanitandel2005/LeetCode/tree/master/2083-three-divisors) |
+| [2491-smallest-even-multiple](https://github.com/Avanitandel2005/LeetCode/tree/master/2491-smallest-even-multiple) |
 ## Greedy
 |  |
 | ------- |
