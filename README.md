@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Avanitandel2005/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/Avanitandel2005/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/Avanitandel2005/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Avanitandel2005/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Avanitandel2005/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Avanitandel2005/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2083-three-divisors](https://github.com/Avanitandel2005/LeetCode/tree/master/2083-three-divisors) |
