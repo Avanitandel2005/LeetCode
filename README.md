@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Avanitandel2005/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Avanitandel2005/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Avanitandel2005/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Avanitandel2005/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/Avanitandel2005/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Avanitandel2005/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
@@ -379,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2083-three-divisors](https://github.com/Avanitandel2005/LeetCode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/Avanitandel2005/LeetCode/tree/master/2507-number-of-common-factors) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Avanitandel2005/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
