@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Avanitandel2005/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Avanitandel2005/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Avanitandel2005/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2634-minimum-common-value](https://github.com/Avanitandel2005/LeetCode/tree/master/2634-minimum-common-value) |
 | [3321-type-of-triangle](https://github.com/Avanitandel2005/LeetCode/tree/master/3321-type-of-triangle) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Avanitandel2005/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Avanitandel2005/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Avanitandel2005/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1635-number-of-good-pairs](https://github.com/Avanitandel2005/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2634-minimum-common-value](https://github.com/Avanitandel2005/LeetCode/tree/master/2634-minimum-common-value) |
 ## Linked List
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Avanitandel2005/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/Avanitandel2005/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Avanitandel2005/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [2634-minimum-common-value](https://github.com/Avanitandel2005/LeetCode/tree/master/2634-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Avanitandel2005/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Avanitandel2005/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0861-flipping-an-image](https://github.com/Avanitandel2005/LeetCode/tree/master/0861-flipping-an-image) |
+| [2634-minimum-common-value](https://github.com/Avanitandel2005/LeetCode/tree/master/2634-minimum-common-value) |
 ## Sliding Window
 |  |
 | ------- |
