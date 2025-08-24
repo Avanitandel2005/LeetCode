@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Avanitandel2005/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Avanitandel2005/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Avanitandel2005/LeetCode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Avanitandel2005/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Avanitandel2005/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Avanitandel2005/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Avanitandel2005/LeetCode/tree/master/0189-rotate-array) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Avanitandel2005/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Avanitandel2005/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Avanitandel2005/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Avanitandel2005/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Avanitandel2005/LeetCode/tree/master/0079-word-search) |
 | [0649-dota2-senate](https://github.com/Avanitandel2005/LeetCode/tree/master/0649-dota2-senate) |
 ## Backtracking
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Avanitandel2005/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Avanitandel2005/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Avanitandel2005/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Avanitandel2005/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Avanitandel2005/LeetCode/tree/master/0268-missing-number) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Avanitandel2005/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Avanitandel2005/LeetCode/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/Avanitandel2005/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Avanitandel2005/LeetCode/tree/master/0861-flipping-an-image) |
