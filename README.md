@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Avanitandel2005/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Avanitandel2005/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Avanitandel2005/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Avanitandel2005/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Avanitandel2005/LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Avanitandel2005/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Avanitandel2005/LeetCode/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/Avanitandel2005/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Avanitandel2005/LeetCode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Avanitandel2005/LeetCode/tree/master/0079-word-search) |
 | [0649-dota2-senate](https://github.com/Avanitandel2005/LeetCode/tree/master/0649-dota2-senate) |
@@ -399,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Avanitandel2005/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Avanitandel2005/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
