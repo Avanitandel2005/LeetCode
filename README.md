@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/Avanitandel2005/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Avanitandel2005/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Avanitandel2005/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/Avanitandel2005/LeetCode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/Avanitandel2005/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/Avanitandel2005/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Avanitandel2005/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0649-dota2-senate](https://github.com/Avanitandel2005/LeetCode/tree/master/0649-dota2-senate) |
 | [0890-lemonade-change](https://github.com/Avanitandel2005/LeetCode/tree/master/0890-lemonade-change) |
+| [1448-maximum-69-number](https://github.com/Avanitandel2005/LeetCode/tree/master/1448-maximum-69-number) |
 ## Monotonic Stack
 |  |
 | ------- |
