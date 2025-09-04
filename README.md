@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Avanitandel2005/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/Avanitandel2005/LeetCode/tree/master/2752-sum-multiples) |
 | [3321-type-of-triangle](https://github.com/Avanitandel2005/LeetCode/tree/master/3321-type-of-triangle) |
+| [3830-find-closest-person](https://github.com/Avanitandel2005/LeetCode/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
