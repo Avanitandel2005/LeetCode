@@ -435,4 +435,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/Avanitandel2005/LeetCode/tree/master/0196-delete-duplicate-emails) |
+| [0577-employee-bonus](https://github.com/Avanitandel2005/LeetCode/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
