@@ -443,4 +443,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/Avanitandel2005/LeetCode/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/Avanitandel2005/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Avanitandel2005/LeetCode/tree/master/0620-not-boring-movies) |
+| [1280-students-and-examinations](https://github.com/Avanitandel2005/LeetCode/tree/master/1280-students-and-examinations) |
 <!---LeetCode Topics End-->
