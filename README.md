@@ -446,4 +446,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/Avanitandel2005/LeetCode/tree/master/1280-students-and-examinations) |
 | [1407-top-travellers](https://github.com/Avanitandel2005/LeetCode/tree/master/1407-top-travellers) |
 | [1729-find-followers-count](https://github.com/Avanitandel2005/LeetCode/tree/master/1729-find-followers-count) |
+| [1873-calculate-special-bonus](https://github.com/Avanitandel2005/LeetCode/tree/master/1873-calculate-special-bonus) |
 <!---LeetCode Topics End-->
