@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/Avanitandel2005/LeetCode/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/Avanitandel2005/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Avanitandel2005/LeetCode/tree/master/0620-not-boring-movies) |
+| [1068-product-sales-analysis-i](https://github.com/Avanitandel2005/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1280-students-and-examinations](https://github.com/Avanitandel2005/LeetCode/tree/master/1280-students-and-examinations) |
 | [1407-top-travellers](https://github.com/Avanitandel2005/LeetCode/tree/master/1407-top-travellers) |
 | [1729-find-followers-count](https://github.com/Avanitandel2005/LeetCode/tree/master/1729-find-followers-count) |
